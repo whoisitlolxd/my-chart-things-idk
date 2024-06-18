@@ -1,0 +1,1663 @@
+{
+	"song": {
+		"player1": "bambi",
+		"gfVersion": "thisissoscrewed",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						541.666666666667,
+						1,
+						125
+					],
+					[
+						812.5,
+						3,
+						0
+					],
+					[
+						875,
+						2,
+						0
+					],
+					[
+						937.5,
+						0,
+						0
+					],
+					[
+						1166.66666666667,
+						1,
+						0
+					],
+					[
+						1291.66666666667,
+						3,
+						0
+					],
+					[
+						1500,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						2000,
+						2,
+						0
+					],
+					[
+						2000,
+						1,
+						125
+					],
+					[
+						3125,
+						3,
+						0
+					],
+					[
+						3375,
+						2,
+						0
+					],
+					[
+						3562.5,
+						0,
+						0
+					],
+					[
+						3750,
+						3,
+						0
+					],
+					[
+						3833.33333333333,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4125,
+						3,
+						0
+					],
+					[
+						4666.66666666667,
+						2,
+						0
+					],
+					[
+						4625,
+						1,
+						0
+					],
+					[
+						5125,
+						0,
+						0
+					],
+					[
+						4958.33333333333,
+						3,
+						0
+					],
+					[
+						5916.66666666667,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						5958.33333333333,
+						1,
+						125,
+						"2x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6041.66666666667,
+						3,
+						125,
+						"2x speed note"
+					],
+					[
+						6312.5,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						6312.5,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						6500,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						6781.25,
+						0,
+						0,
+						"4x speed note"
+					],
+					[
+						6781.25,
+						1,
+						0,
+						"4x speed note"
+					],
+					[
+						6781.25,
+						2,
+						0,
+						"4x speed note"
+					],
+					[
+						6781.25,
+						3,
+						0,
+						"4x speed note"
+					],
+					[
+						6500,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						7333.33333333333,
+						1,
+						125,
+						"2x speed note"
+					],
+					[
+						7541.66666666667,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						7625,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						7708.33333333333,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						7958.33333333333,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						7958.33333333333,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						7958.33333333333,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						7958.33333333333,
+						0,
+						0,
+						"3x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8083.33333333333,
+						6,
+						0,
+						"3x speed note"
+					],
+					[
+						8291.66666666667,
+						4,
+						0,
+						"3x speed note"
+					],
+					[
+						8583.33333333333,
+						7,
+						0,
+						"4x speed note"
+					],
+					[
+						8583.33333333333,
+						6,
+						0,
+						"4x speed note"
+					],
+					[
+						8791.66666666667,
+						6,
+						0,
+						"2x speed note"
+					],
+					[
+						8958.33333333333,
+						4,
+						0,
+						"2x speed note"
+					],
+					[
+						9000,
+						5,
+						125,
+						"2x speed note"
+					],
+					[
+						9541.66666666667,
+						7,
+						0,
+						"2x speed note"
+					],
+					[
+						9673.61111111111,
+						4,
+						0,
+						"2x speed note"
+					],
+					[
+						9562.5,
+						6,
+						0,
+						"2x speed note"
+					],
+					[
+						9902.77777777778,
+						7,
+						0,
+						"3x speed note"
+					],
+					[
+						9916.66666666667,
+						6,
+						0,
+						"3x speed note"
+					],
+					[
+						9906.25,
+						5,
+						0,
+						"3x speed note"
+					],
+					[
+						9895.83333333333,
+						4,
+						0,
+						"2x speed note"
+					],
+					[
+						9989.58333333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9989.58333333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9989.58333333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9989.58333333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9983.93139168073,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9979.16666666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9979.16666666667,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9979.16666666667,
+						2,
+						-135.25,
+						"random speed note"
+					],
+					[
+						9958.3380218885,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9958.3380218885,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9958.3380218885,
+						2,
+						-124.666666666666,
+						"random speed note"
+					],
+					[
+						9937.50052084636,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9918.25002456765,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9918.25002456765,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9918.25002456765,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9916.66666666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9916.66666666667,
+						1,
+						-134.75,
+						"random speed note"
+					],
+					[
+						9906.25,
+						0,
+						-135.166666666666,
+						"random speed note"
+					],
+					[
+						9895.83333333333,
+						2,
+						-134.583333333332,
+						"random speed note"
+					],
+					[
+						9885.41666666667,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9875,
+						0,
+						-135.416666666666,
+						"random speed note"
+					],
+					[
+						9864.58333333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9864.58333333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9864.58333333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9943.75,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9938.28125,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9936.71875,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						9907.8125,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9902.34375,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9895.3125,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9887.109375,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9876.953125,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9865.625,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9864.453125,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9859.765625,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						9945.3125,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9939.453125,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9937.5,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9934.765625,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9928.90625,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9927.734375,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9926.5625,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9923.4375,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9921.484375,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9918.359375,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						9973.828125,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9971.484375,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9965.625,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9959.765625,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9958.203125,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9953.125,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9947.265625,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						9943.75,
+						3,
+						0,
+						"random speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						10654,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						10814,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						10814,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						10814,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						10974,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						11134,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						11294,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						11294,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						11294,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						11534,
+						0,
+						125,
+						"2x speed note"
+					],
+					[
+						11534,
+						3,
+						125,
+						"2x speed note"
+					],
+					[
+						11754,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						11754,
+						2,
+						0,
+						"2x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						12000,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						12041.6666666667,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						12166.6666666667,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						12104.1666666667,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						12209.7,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						12674,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						12714,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						12714,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						12814,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						12874,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						13074,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						13074,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						13074,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						13294,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						13294,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						13694,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						13694,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						13694,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						13694,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						13976,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						13976,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						13976,
+						2,
+						0,
+						"2x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14195,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						14195,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						14750,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						14830,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						14700,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						14820,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						14873.1,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						14658.9,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						14986.1111111111,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						14951.3888888889,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						14902.7777777778,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						15121.675,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						15135.675,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						15149.325,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						15269.3,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						15465,
+						2,
+						0,
+						"2x speed note"
+					],
+					[
+						15476.025,
+						0,
+						125,
+						"2x speed note"
+					],
+					[
+						15923.6111111111,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						15958.3333333333,
+						0,
+						0,
+						"2x speed note"
+					],
+					[
+						15937.5,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						15937.5,
+						2,
+						0,
+						"2x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16055.5555555556,
+						3,
+						0,
+						"2x speed note"
+					],
+					[
+						16069.4444444444,
+						1,
+						0,
+						"2x speed note"
+					],
+					[
+						16736.1111111111,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						16884,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						16944,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						16944,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						17024,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						17024,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						17084,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						17084,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						17184,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						17184,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						17184,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						17090,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						17024.2,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						17180.3,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						17370.7,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						17409.2,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						17293,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						17282.5,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						17282.5,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						17559.7,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						17559.7,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						17504.4,
+						0,
+						0,
+						"3x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						18416.6666666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18416.6666666667,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18416.6666666667,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18416.6666666667,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18427.0833333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18427.0833333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18427.0833333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18427.0833333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18437.5,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18437.5,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18437.5,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18437.5,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18447.9166666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18447.9166666667,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18447.9166666667,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18447.9166666667,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18458.3333333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18458.3333333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18458.3333333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18458.3333333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18468.75,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18468.75,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18468.75,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18468.75,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18406.25,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18406.25,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18406.25,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18406.25,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18395.8333333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18395.8333333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18395.8333333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18395.8333333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18385.4166666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18385.4166666667,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18385.4166666667,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18385.4166666667,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18375,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18375,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18375,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18375,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18364.5833333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18364.5833333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18364.5833333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18364.5833333333,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18354.1666666667,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18354.1666666667,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18354.1666666667,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18354.1666666667,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18343.75,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18343.75,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18343.75,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18343.75,
+						3,
+						0,
+						"random speed note"
+					],
+					[
+						18333.3333333333,
+						0,
+						0,
+						"random speed note"
+					],
+					[
+						18333.3333333333,
+						1,
+						0,
+						"random speed note"
+					],
+					[
+						18333.3333333333,
+						2,
+						0,
+						"random speed note"
+					],
+					[
+						18333.3333333333,
+						3,
+						0,
+						"4x speed note"
+					],
+					[
+						18020.8333333333,
+						3,
+						0,
+						"3x speed note"
+					],
+					[
+						18041.6666666667,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						18034.7222222222,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						18020.8333333333,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						18194.4444444444,
+						1,
+						0,
+						"3x speed note"
+					],
+					[
+						18201.3888888889,
+						2,
+						0,
+						"3x speed note"
+					],
+					[
+						18208.3333333333,
+						0,
+						0,
+						"3x speed note"
+					],
+					[
+						18250,
+						3,
+						0,
+						"3x speed note"
+					]
+				],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "nothing",
+		"splashSkin": "noteSplashes",
+		"song": "YOU STUPID N",
+		"needsVoices": false,
+		"arrowSkin": "",
+		"stage": "stage",
+		"validScore": true,
+		"bpm": 120,
+		"speed": 1.5
+	}
+}

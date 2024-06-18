@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				5625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"screwedguy"
+					]
+				]
+			],
+			[
+				8645.83333333333,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				8791.66666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bf"
+					]
+				]
+			],
+			[
+				10000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nothing"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				13798.6111111111,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

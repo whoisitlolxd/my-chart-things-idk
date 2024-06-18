@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				125,
+				[
+					[
+						"lyrics",
+						"Green",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				793.75,
+				[
+					[
+						"lyrics",
+						"Or",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				989.0625,
+				[
+					[
+						"lyrics",
+						"NOOOOOOOOOOOOOOOOOOOOOO",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				1000,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"gf"
+					]
+				]
+			],
+			[
+				2312.5,
+				[
+					[
+						"lyrics",
+						"-ow I'm getting paid cash with Atlas Earth",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				3770.83333333333,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"gf"
+					],
+					[
+						"lyrics",
+						"NOOOOOOOOOOOOOOOOOOOOOO",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				4250,
+				[
+					[
+						"lyrics",
+						"Got vir-",
+						"FFFFFF"
+					]
+				]
+			]
+		]
+	}
+}
